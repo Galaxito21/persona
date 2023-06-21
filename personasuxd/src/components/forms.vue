@@ -192,8 +192,8 @@ export default {
   <div class="font-sans">
     <div class="min-h-screen flex sm:justify-center bg-[#]" >
       <div
-        style="margin: 100px 10px 100px 10px"
-        class="rounded-3xl px-6 py-4 bg-[#A3BAB4] border"
+        style="margin: 100px 10px 80px 10px"
+        class="rounded-3xl px-6 py-4 bg-[#1B76E9] border"
       >
         <label
           for=""
@@ -313,7 +313,7 @@ export default {
           <div class="mt-7">
             <label
               for="marcas"
-              class="block mb-2 text-sm font-medium text-gray-900 dark:text-white mt-7"
+              class="block mb-2 text-sm font-medium text-white-900 dark:text-white mt-7"
               >Marcas</label
             >
             <input

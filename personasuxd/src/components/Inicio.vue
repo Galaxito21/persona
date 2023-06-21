@@ -39,7 +39,7 @@
             <div class="font-bold text-xl mb-2">"Sitio web"</div>
             <div class="font-bold text-xl mb-2">Los sitios web son lo que conocemos comúnmente por "página web".</div>
             <div class="font-bold text-xl mb-2">Es la solución adecuada para:</div>
-            <p class="text-blue-700 text-base">
+            <p class="text-white-700 text-base">
                 Es la solución adecuada para:
                 <br>
                 -*-Promover servicios o productos

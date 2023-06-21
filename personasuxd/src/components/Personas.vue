@@ -81,7 +81,7 @@ export default {
             v-if="dataPersona"
               class="bg-green-900 relative transform overflow-hidden rounded-3xl outline outline-blue-500 text-left shadow-xl transition-all sm:my-8 max-w-7xl"
             >
-              <div class="bg-[#0aa6c1] px-4 pb-4 sm:p-6 sm:pb-4">
+              <div class="bg-[#0A0AC1] px-4 pb-4 sm:p-6 sm:pb-4">
                 <div class="sm:flex sm:items-start">
                   <div
                     class="mx-auto grid grid-rows-2 h-28 w-28 flex-shrink-0 items-center justify-center sm:mx-0 sm:h-28 sm:w-28"
